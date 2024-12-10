@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I'm Sean 👋
 [LinkedIn](https://www.linkedin.com/in/theseanlim/) | [Github](https://github.com/seanl01)
 
 I'm Sean, an Information Systems Student at SMU and aspiring full-stack engineer! I love solving problems using human-centric technology, and programming/developing is one of the most fulfilling ways I've found to do just that.
