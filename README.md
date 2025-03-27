@@ -6,6 +6,7 @@ I'm Sean, an Information Systems Student at SMU and aspiring full-stack engineer
 ### My projects and experiments 🧪
 - **[teleSchedule](https://github.com/seanl01/teleSchedule)**: A telegram bot that enables sending of recurring weekly messages: great for reminders, standard announcements.
 Built with Typescript, Node.js, node-telegram-bot, BullMQ, and Redis. Dockerised for portability.
+- **[jsonToCSV](https://github.com/seanl01/jsonToCSV)**: A simple utility for converting complex json objects into a CSV-friendly format. Also available on [npm](https://www.npmjs.com/package/@sean-lim/jsontocsv).
 - **Faci-Cards (currently WIP)**: I'm building a SaaS-style app to allow facilitators to create vibrant picture cards which they can use to spark
 conversations. I'm building using Shad-cn, Next.js, Bun.js, Drizzle ORM.
 - **[MAT102 Experiments](https://github.com/seanl01/MAT102-Python-Experiments)**: contains some experiments I did for my own exploration and fun, to see if I could use code to represent some of the mathematical concepts I learned in my MAT102: Introduction to Mathematical Proofs course during my exchange program in the University of Toronto Mississauga.
