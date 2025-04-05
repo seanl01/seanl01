@@ -4,7 +4,7 @@
 I'm Sean, an Information Systems Student at SMU and aspiring full-stack engineer. I love solving problems using human-centric technology, and programming/developing is one of the most fulfilling ways I've found to do just that.
 
 ### My projects and experiments 🧪
-- **[football-trainer](https://github.com/seanl01/football-trainer)**: A client side app for individual football training using a mobile phone, with various modes for reaction training and a 2-device mode powered by WebRTC for more dynamic training stimulus. Try it [live](https://seanl01.github.io/football-trainer).
+- **[football-trainer](https://github.com/seanl01/football-trainer)**: A client side app for individual football training using a mobile phone. Provides various configurations for reaction training and a 2-device mode powered by WebRTC for more dynamic training stimulus. Try it [live](https://seanl01.github.io/football-trainer).
 - **[teleSchedule](https://github.com/seanl01/teleSchedule)**: A telegram bot that enables sending of recurring weekly messages: great for reminders, standard announcements.
 Built with Typescript, Node.js, node-telegram-bot, BullMQ, and Redis. Dockerised for portability.
 - **[jsonToCSV](https://github.com/seanl01/jsonToCSV)**: A simple utility for converting complex json objects into a CSV-friendly format. Also available on [npm](https://www.npmjs.com/package/@sean-lim/jsontocsv).
