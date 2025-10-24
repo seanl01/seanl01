@@ -11,6 +11,7 @@ Built with Typescript, Node.js, node-telegram-bot, BullMQ, and Redis. Dockerised
 - **Faci-Cards (currently WIP)**: I'm building a SaaS-style app to allow facilitators to create vibrant picture cards which they can use to spark
 conversations. I'm building using Shad-cn, Next.js, Bun.js, Drizzle ORM.
 - **[MAT102 Experiments](https://github.com/seanl01/MAT102-Python-Experiments)**: contains some experiments I did for my own exploration and fun, to see if I could use code to represent some of the mathematical concepts I learned in my MAT102: Introduction to Mathematical Proofs course during my exchange program in the University of Toronto Mississauga.
+- **[autodiff-ts](https://github.com/seanl01/autodiff-ts)**: An automatic differentiation library for Typescript. Takes in a user-defined function and returns its corresponding gradient function. Also available on [npm](https://npmjs.com/package/autodiff-ts).
 
 ### My school projects 🍎
 - **[Ticket Marketplace](https://github.com/eugenelow13/OOP_Project)**: As part of a course on Object Oriented Programming in year 2,
