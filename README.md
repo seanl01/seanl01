@@ -4,6 +4,7 @@
 I'm Sean, an Information Systems Student at SMU and aspiring full-stack engineer. I love solving problems using human-centric technology, and programming/developing is one of the most fulfilling ways I've found to do just that.
 
 ### My projects and experiments 🧪
+- **[Enabling vision-based human fall detection through spatio-temporal transfer learning](https://github.com/seanl01/vision-fall-detection): Reference code and paper for project on using computer vision models to predict falls in eldercare settings. Implements transfer learning on pretrained inflated 3D ConNets and ResNet + LSTM model architectures to detect falls from video frames.
 - **[autodiff-ts](https://github.com/seanl01/autodiff-ts)**: An automatic differentiation library for Typescript. Takes in a user-defined function and returns its corresponding gradient function. Also available on [npm](https://npmjs.com/package/autodiff-ts).
 - **[football-trainer](https://github.com/seanl01/football-trainer)**: A client side app for individual football training using a mobile phone. Provides various configurations for reaction training and a 2-device mode powered by WebRTC for more dynamic training stimulus. Try it [live](https://seanl01.github.io/football-trainer).
 - **[teleSchedule](https://github.com/seanl01/teleSchedule)**: A telegram bot that enables sending of recurring weekly messages: great for reminders, standard announcements.
