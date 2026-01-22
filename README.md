@@ -1,7 +1,7 @@
 ## Hi there, I'm Sean 👋
 [LinkedIn](https://www.linkedin.com/in/theseanlim/) | [Github](https://github.com/seanl01)
 
-I'm Sean, an Information Systems Student at SMU and aspiring full-stack engineer. I love solving problems using human-centric technology, and programming/developing is one of the most fulfilling ways I've found to do just that.
+I'm Sean, a Masters of Information Systems Student at CMU and aspiring ML engineer. I love solving problems using human-centric technology, and programming/developing is one of the most fulfilling ways I've found to do just that.
 
 ### My projects and experiments 🧪
 - **[vision-fall-detection](https://github.com/seanl01/vision-fall-detection)**: Reference code and paper for "Enabling vision-based human fall detection through spatio-temporal transfer learning" (2025) project I developed, using computer vision to predict falls in eldercare settings. Implements transfer learning on pretrained inflated 3D ConvNets and ResNet + LSTM model architectures to detect falls from video frames.
