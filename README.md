@@ -26,6 +26,7 @@ course was focused not merely on the product but also the development process. T
 - **Languages**: Python, Typescript, Java, Haskell, C, Go, Racket, PHP
 - **Frontend frameworks**: React.js, Next.js, Vue.js
 - **Backend frameworks**: Spring/Spring Boot, Flask, Express.js, Hono, Django
+- **Deep Learning**: Pytorch, Numpy, Weights & Biases, Torchvision
 - **Data Science**: Scikit-Learn, XGBoost, Hyperopt, Pandas, MLFlow
 - **Runtimes**: Node.js, Bun.js
 - **Databases**: Firebase, MySQL, PostgreSQL
