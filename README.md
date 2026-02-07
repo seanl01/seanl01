@@ -24,13 +24,13 @@ course was focused not merely on the product but also the development process. T
 
 ### Technologies I use/have used 🌐
 - **Languages**: Python, Typescript, Java, Haskell, C, Go, Racket, PHP
-- **Frontend frameworks**: React.js, Next.js, Vue.js
-- **Backend frameworks**: Spring/Spring Boot, Flask, Express.js, Hono, Django
 - **Deep Learning**: Pytorch, Numpy, Weights & Biases, Torchvision
 - **Data Science**: Scikit-Learn, XGBoost, Hyperopt, Pandas, MLFlow
+- **Frontend frameworks**: React.js, Next.js, Vue.js
+- **Backend frameworks**: Spring/Spring Boot, Flask, Express.js, Hono, Django
 - **Runtimes**: Node.js, Bun.js
 - **Databases**: Firebase, MySQL, PostgreSQL
-- **Misc**: Vim Motions
+- **Misc**: Vim Motions, Terraform
 
 <!-- ### Modules I've taken:
 - Web Appli
