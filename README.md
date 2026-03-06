@@ -1,5 +1,5 @@
 ## Hi there, I'm Sean 👋
-[LinkedIn](https://www.linkedin.com/in/theseanlim/) | [Github](https://github.com/seanl01)
+[Blog](https://seanl01.github.io/blog) | [LinkedIn](https://www.linkedin.com/in/theseanlim/) | [Github](https://github.com/seanl01)
 
 I'm Sean, a Masters of Information Systems Student at CMU and aspiring ML engineer. I love solving problems using human-centric technology, and programming/developing is one of the most fulfilling ways I've found to do just that.
 
